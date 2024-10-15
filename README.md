@@ -7,7 +7,7 @@
 
 ### 1. Основы DL
 - Работа с датасетом FashionMNIST
-- Ручгая реализация Linear Layer
+- Ручная реализация Linear Layer
 
 ### 2. Основы DL
 - Работа с датасетом [Year Prediction MSD](https://archive.ics.uci.edu/dataset/203/yearpredictionmsd)
